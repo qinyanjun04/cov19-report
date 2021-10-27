@@ -15,7 +15,7 @@
 然后，在你自己仓库的 Settings 的 Secrets 中设置以下信息：
 
 - `BUPT_USERNAME`: 你用来登录的学号；
-- `BUPT_PASSWORD`: 你用来登录的密码。
+- `BUPT_PASSWORD`: 你用来登录的密码。,,
 
 ## 检查结果
 
